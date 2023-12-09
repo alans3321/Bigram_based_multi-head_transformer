@@ -1,1 +1,1 @@
- Implementation of a bigram based muli head attention model from scratch
+ Implementation of a multi head attention model from scratch
